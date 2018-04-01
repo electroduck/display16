@@ -16,4 +16,3 @@ To do list, for contributors, listed in order of importance:
  - Automatically restore the palette on exit (should work, doesn't now)
  - Add a program to generate videos, ideally from AVI/MP4 input files
  - Improve palette auto-generation
- - Add build scripts for MSVC and a solution for VS
